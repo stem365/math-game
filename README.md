@@ -2,7 +2,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ### Try It
 
-stem365.github.io/math-game/
+https://stem365.github.io/math-game/
 
 ### Install
 
